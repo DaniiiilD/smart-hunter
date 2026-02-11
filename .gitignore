@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.egg-info/
+dist/    
+build/        
+
+# --- Environment Variables---
+.env
+.env.docker
+.env.*
+
+#logs
+*.log
+logs/
+*.log.*
+
+# --- Docker ---
+.docker/
+*.log
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Database Data ---
+*.sqlite3
+*.db
+pg_data/
+
+# --- Celery / Redis ---
+celerybeat-schedule
+dump.rdb
