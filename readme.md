@@ -46,7 +46,7 @@ It serves as a demonstration of advanced backend skills: **FastAPI**, **Celery**
 #### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-hunter.git
+git clone https://github.com/DaniiiilD/smart-hunter.git
 cd smart-hunter
 ```
 
